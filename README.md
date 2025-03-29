@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lawlietacrzi
+9- 👋 Hi, I’m @lawlietacrzi
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
@@ -10,4 +10,5 @@
 lawlietacrzi/lawlietacrzi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-git clone https://hash identifier.com
+
+This tool is provided 'as is' without any warranties, express or implied. The creator is not responsible for any damages, errors, or consequences arising from its use. Users are advised to exercise caution and verify results independently."
